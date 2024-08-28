@@ -1,7 +1,7 @@
 #Descrevendo tarefas diversas relacionadas ao Processamento
-de Linguagem Natural.
+de Linguagem Natural.#
 
-##- Material necessário para a prática
+##- Material necessário para a prática##
 
 Navegador Web;
 Conta Google;
